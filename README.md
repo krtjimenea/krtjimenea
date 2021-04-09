@@ -16,3 +16,5 @@ I am currently an undergraduate student in the University of the Philippines Los
      
 ### Screenshots of Projects
    #### Polynomial Regression and Simplex Calculator
+   ![](https://github.com/krtjimenea/krtjimenea/blob/main/Picture1.png)
+   ![]https://github.com/krtjimenea/krtjimenea/blob/main/Picture2.png)
