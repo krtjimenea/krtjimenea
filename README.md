@@ -17,10 +17,8 @@ I am currently an undergraduate student in the University of the Philippines Los
 ### Screenshots of Projects
  
    #### Polynomial Regression and Simplex Calculator
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture1.png" width="500" height="250">|<img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture2.png" width="400" height="350">
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture1.png" width="500" height="250">|<img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture2.png" width="400" height="250">
 
    #### Scratch Games
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture7.png" width="300" height="250">
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture8.png" width="300" height="250">
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture9.png" width="300" height="250">
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture10.png" width="300" height="250">
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture7.png" width="300" height="250">|<img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture8.png" width="300" height="250">
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture9.png" width="300" height="250">|<img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture10.png" width="300" height="250">
