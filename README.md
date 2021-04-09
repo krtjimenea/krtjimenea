@@ -10,7 +10,7 @@ I am currently an undergraduate student in the University of the Philippines Los
 ### Finished Projects                                                                                                                                               
    * [Twitter Home & Login Page using Bootstrap](https://github.com/krtjimenea/exercise-1-twitter-bootstrap/ "Twitter Home & Login Page using Bootstrap")            
    * [Polynomial Regression and Simplex Calculator](https://jimenea-cs150-project.shinyapps.io/HomePage/ "Polynomial Regression and Simplex Calculator") 
-   * [Pacman (Group Project using Java/JavaFX](https://github.com/krtjimenea/CMSC-22-PACMAN-FINAL-PROJECT "Pacman Game (Group Project using Java/JavaFX")    
+   * [Pacman (Group Project using Java/JavaFX)](https://github.com/krtjimenea/CMSC-22-PACMAN-FINAL-PROJECT "Pacman Game (Group Project using Java/JavaFX")    
  
  
      
