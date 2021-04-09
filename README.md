@@ -17,7 +17,7 @@ I am currently an undergraduate student in the University of the Philippines Los
 ### Screenshots of Projects
    #### Twitter Home & Login Page using Bootstrap
    ### Web Browser
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture3.png" width="500" height="250">
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture3.png" width="500" height="350">
    ### Tablets/iPad
    <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture5.png" width="500" height="250">
    ### Phones
@@ -27,4 +27,4 @@ I am currently an undergraduate student in the University of the Philippines Los
    
    #### Polynomial Regression and Simplex Calculator
    <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture1.png" width="500" height="250">
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture2.png" width="400" height="250">
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture2.png" width="300" height="150">
