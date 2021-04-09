@@ -1,6 +1,6 @@
 ## Hello World, I am Katrina! :woman_technologist:
 
-I am currently an undergraduate student in the University of the Philippines Los Baños taking up BS Computer Science. I am interested in topics like Data Science, Front end development and Stationery! 
+I am currently an undergraduate student in the University of the Philippines Los Baños taking up BS Computer Science. I am interested in topics like Data Science, Front end development and stationery! 
 
 ### Work in Progress       
    * Discord Bot (Collab)  
