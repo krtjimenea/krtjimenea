@@ -16,9 +16,13 @@ I am currently an undergraduate student in the University of the Philippines Los
      
 ### Screenshots of Projects
    #### Twitter Home & Login Page using Bootstrap
-    ### Web Browser
-    ### Tablets/iPad
-    ### Phones
+   ### Web Browser
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture3.png" width="500" height="250">
+   ### Tablets/iPad
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture5.png" width="500" height="250">
+   ### Phones
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture4.png" width="500" height="250">
+
    
    
    #### Polynomial Regression and Simplex Calculator
