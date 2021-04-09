@@ -16,12 +16,9 @@ I am currently an undergraduate student in the University of the Philippines Los
      
 ### Screenshots of Projects
    #### Twitter Home & Login Page using Bootstrap
-   Web Browser
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture3.png" width="500" height="350"> </br>
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture3.png" width="500" height="350">
    <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture6.png" width="500" height="350">
-   Tablets/iPad
    <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture5.png" width="350" height="450">
-   Phones
    <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture4.png" width="200" height="350">
 
    
@@ -30,7 +27,7 @@ I am currently an undergraduate student in the University of the Philippines Los
    <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture2.png" width="400" height="350">
 
    #### Scratch Games
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture7.png" width="400" height="350">
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture8.png" width="400" height="350">
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture9.png" width="400" height="350">
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture10.png" width="400" height="350">
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture7.png" width="300" height="250">
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture8.png" width="300" height="250">
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture9.png" width="300" height="250">
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture10.png" width="300" height="250">
