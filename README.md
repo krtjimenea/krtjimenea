@@ -18,7 +18,7 @@ I am currently an undergraduate student in the University of the Philippines Los
    #### Twitter Home & Login Page using Bootstrap
    <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture3.png" width="500" height="350">
    <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture6.png" width="500" height="350">
-   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture5.png" width="350" height="450">
+   <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture5.png" width="300" height="450">
    <img src="https://github.com/krtjimenea/krtjimenea/blob/main/Picture4.png" width="200" height="350">
 
    
