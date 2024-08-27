@@ -7,7 +7,7 @@ I recently graduated with a Bachelor of Science in Computer Science from the Uni
  
      
 ### Finished Projects
-   * [My Undergraduate Special Problem/Research](https://github.com/krtjimenea/sp_journalformat/blob/main/JIMENEA_SP_AuthoExam_Paper.pdf/ "AuthoExam: A Browser Extension with MFA for Proctoring Online Exams")  
+   * [My Undergraduate Special Problem/Research](https://github.com/krtjimenea/sp_journalformat/blob/main/CMSC190_KRTJimenea_journal%20(1).pdf/ "AuthoExam: A Browser Extension with MFA for Proctoring Online Exams")  
    * [Iskolar Study Hub (Group Project for HCI)](https://iskolar-study-hub-project.netlify.app/ "Iskolar Study Hub")  
    * [Twitter Home & Login Page using Bootstrap](https://github.com/krtjimenea/exercise-1-twitter-bootstrap/ "Twitter Home & Login Page using Bootstrap")            
    * [Polynomial Regression and Simplex Calculator](https://jimenea-cs150-project.shinyapps.io/HomePage/ "Polynomial Regression and Simplex Calculator") 
